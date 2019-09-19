@@ -53,3 +53,10 @@ q{
 .jumbotron .btn{
     font-weight: 700;
 }
+
+#mc_embed_signup form {
+    text-align: center!important;
+}
+#mc_embed_signup input {
+    border-color: orange!important;
+}
